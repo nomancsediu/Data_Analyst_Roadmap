@@ -1,4 +1,4 @@
-# 📊 Data Analyst Roadmap 2025/26 (Entry-Level)
+# 📊 Data Analyst Roadmap (Entry-Level)
 
 Welcome! This roadmap is designed to guide absolute beginners toward becoming a **Data Analyst** or **BI Analyst** by learning practical, job-ready skills step-by-step.
 
